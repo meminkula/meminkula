@@ -1,4 +1,4 @@
-# meminkula | AI & Data Engineering Student & Cyber Security
+# Emin KULA | AI & Data Engineering Student & Cyber Security
 
 I am an AI & Data Engineering student exploring the foundations of cyber security and system programming.
 
