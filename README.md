@@ -1,16 +1,18 @@
-## Hi there 👋
+# meminkula | AI & Data Engineering Student & Cyber Security
 
-<!--
-**meminkula/meminkula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an AI & Data Engineering student exploring the foundations of cyber security and system programming.
 
-Here are some ideas to get you started:
+### Technical Proficiency
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Offensive Security:** Actively learning to utilize and research popular cybersecurity tools. I focus on understanding the underlying logic of tools and how they interact with network protocols.
+* **System Programming:** Gaining experience in low-level development with C. I rely on technical documentation, man pages, and source code analysis to build custom utilities. I am a firm believer in the "learning by doing" approach.
+* **Linux Environment:** Comfortable working within Linux-based ecosystems (specifically Kali Linux). Focused on shell environments, basic scripting, and system configuration for security labs.
+* **Security Research:** Interested in deconstructing exploits and understanding their mechanisms through code review and research papers.
+
+### Strategic Interests
+* **AI in SecOps:** Exploring the potential of Large Language Models (LLMs) in automating threat detection.
+* **Cyber Intelligence:** Bridging technical security with linguistic research (Currently learning Chinese for international security context).
+* **Security Tooling:** Moving beyond pre-built tools to develop native, specialized security applications in C and eventually C++.
+
+### 📂 Active Development
+* [Basic-Port-Scanner](https://github.com/meminkula/Basic-Port-Scanner): A basic custom network reconnaissance tool implemented in C using the Linux Socket API.
