@@ -16,3 +16,4 @@ I am an AI & Data Engineering student exploring the foundations of cyber securit
 
 ### 📂 Active Development
 * [Basic-Port-Scanner](https://github.com/meminkula/Basic-Port-Scanner): A basic custom network reconnaissance tool implemented in C using the Linux Socket API.
+* [LinInject-Core](https://github.com/meminkula/LinInject-Core): A low-level system security tool developed in C that demonstrates Process Injection techniques on Linux systems using the ptrace system call.
