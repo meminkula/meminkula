@@ -11,7 +11,6 @@ I am an AI & Data Engineering student exploring the foundations of cyber securit
 
 ### Strategic Interests
 * **AI in SecOps:** Exploring the potential of Large Language Models (LLMs) in automating threat detection.
-* **Cyber Intelligence:** Bridging technical security with linguistic research (Currently learning Chinese for international security context).
 * **Security Tooling:** Moving beyond pre-built tools to develop native, specialized security applications in C and eventually C++.
 
 ### 📂 Active Development
